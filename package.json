@@ -1,0 +1,26 @@
+{
+  "name": "dag_token_sys",
+  "version": "1.0.0",
+  "description": "DAG Based Token system Demonstrates the PDF File ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreetheja/DAG_Processing"
+  },
+  "keywords": [
+    "DAG",
+    "Token"
+  ],
+  "author": "shreetheja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreetheja/DAG_Processing/issues"
+  },
+  "homepage": "https://github.com/shreetheja/DAG_Processing#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
